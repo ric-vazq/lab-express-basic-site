@@ -1,0 +1,50 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: gold;
+}
+header {
+    height: 20vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: white;
+}
+
+.pika-clone {
+    height: 100px; 
+    width: auto;
+}
+
+#about-section {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+h1 {
+    color: rgb(10, 10, 73);
+    font-size: 60px;
+    margin-right: 20px;
+}
+
+p {
+    width: 400px;
+    color: rgb(10, 10, 73);
+    margin-left: 20px;
+    font-size: 30px;
+}
+a {
+    
+    margin: 50px 0px;
+}
+
+a img {
+    height: 100px; 
+}
+
